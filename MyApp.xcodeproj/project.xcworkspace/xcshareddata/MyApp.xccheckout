@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1F15EB76-D8E2-4B70-9A33-9E566F534D17</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CCA7D871-D44B-49B2-8FA1-2F8023FD9DFB</key>
+		<string>https://github.com/chanjunc/MyAngularPhoneGapProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CCA7D871-D44B-49B2-8FA1-2F8023FD9DFB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chanjunc/MyAngularPhoneGapProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CCA7D871-D44B-49B2-8FA1-2F8023FD9DFB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CCA7D871-D44B-49B2-8FA1-2F8023FD9DFB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyAngularPhoneGapProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
